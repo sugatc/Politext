@@ -1,5 +1,7 @@
 # Ideal Point Estimation from Legislative Text
 
+Work in progress. 
+
 ## Introduction
 Since the seminal work by Downs et al. (1957), spatial models have provided a useful framework to understand the behaviour of political actors—including but not limited to legislators, judges and media outlets. In these models, a policy is represented as a point in an n-dimensional euclidean space (typically, n =1,2). Each political actor assumes a single preferred position in this policy space, also known as her ideal point.
 
